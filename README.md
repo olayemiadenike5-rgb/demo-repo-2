@@ -1,2 +1,11 @@
-# My Project
-New update added on Thu Sep 25 12:28:25 WAT 2025
+# Demo
+
+Some description!
+
+## Subheader
+
+Watch tutorial on Youtube.
+
+## Local Development
+
+1. Open index.html in your browser.
